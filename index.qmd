@@ -15,5 +15,7 @@ ManyFaces is a developing international network of face researchers. The network
 
 We will set up a mechanism to formally join ManyFaces soon, but for now you can [register interest in joining](https://forms.gle/5CiiDT14RjHXTt886) on a Google form. 
 
+<a rel="me" href="https://fosstodon.org/@ManyFaces">Follow us on Mastodon!</a>
+
 ## Recent Posts
 

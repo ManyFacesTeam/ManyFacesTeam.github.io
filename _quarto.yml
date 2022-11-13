@@ -24,6 +24,8 @@ website:
         file: about.qmd
       - icon: github
         href: https://github.com/ManyFacesTeam
+      - icon: mastodon
+        href: https://fosstodon.org/@ManyFaces
       - icon: twitter
         href: https://twitter.com/ManyFacesTeam
 format:
