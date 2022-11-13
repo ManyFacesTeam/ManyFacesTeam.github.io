@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ManyFaces</title>
+<title>ManyFaces – about</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,12 +31,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,45 +58,9 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="">
-<meta property="og:description" content="ManyFaces is a developing international network of face researchers. The network was formed in early 2022, when 104 researchers contributed to a brainstorming session.">
-<meta property="og:site-name" content="ManyFaces">
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content="ManyFaces is a developing international network of face researchers. The network was formed in early 2022, when 104 researchers contributed to a brainstorming session.">
-<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -127,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">About</a>
+    <a class="nav-link active" href="./about.html" aria-current="page">About</a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/ManyFacesTeam"><i class="bi bi-github" role="img">
@@ -151,82 +112,28 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-
-
+<div class="quarto-about-jolla">
+  <img src="images/logo.png" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <main class="content" id="quarto-document-content">
 <p>ManyFaces is a developing international network of face researchers. The network was formed in early 2022, when 104 researchers contributed to a brainstorming session. There are currently about 200 members registered, from countries including India, Malaysia, Israel, Australia, Turkey, Brazil, Chile, Japan, Canada, USA, and many European countries.</p>
 <p>We will set up a mechanism to formally join ManyFaces soon, but for now you can <a href="https://forms.gle/5CiiDT14RjHXTt886">register interest in joining</a> on a Google form.</p>
-<section id="recent-posts" class="level2">
-<h2 class="anchored" data-anchor-id="recent-posts">Recent Posts</h2>
 
 
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news,grants" data-listing-date-sort="1668297600000" data-listing-file-modified-sort="1668354985049" data-listing-reading-time-sort="3.64">
-<div class="thumbnail">
-<p><a href="./posts/2022-11-13_protocol-dev/index.html"> <img src="images/logo.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2022-11-13_protocol-dev/index.html">
-<h3 class="no-anchor listing-title">
-Protocol Development Grant
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-ManyFaces was awarded £39.1K from the BBSRC International Partnerships scheme via the University of Glasgow MVLS to develop distributed image collection protocols for more diverse face image sets.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2022-11-13_protocol-dev/index.html">
-<div class="listing-date">
-2022-11-13
-</div>
-<div class="listing-author">
-Lisa DeBruine
-</div>
-</a>
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://twitter.com/ManyFacesTeam" class="about-link">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">Twitter</span>
+  </a>
+  <a href="https://github.com/ManyFacesTeam" class="about-link">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1668211200000" data-listing-file-modified-sort="1668356578305" data-listing-reading-time-sort="0.14">
-<div class="thumbnail">
-<p><a href="./posts/2022-11-12_welcome/index.html"> <img src="./posts/2022-11-12_welcome/rainbow-faces.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2022-11-12_welcome/index.html">
-<h3 class="no-anchor listing-title">
-Welcome!
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-Welcome to our new quarto website!
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2022-11-12_welcome/index.html">
-<div class="listing-date">
-2022-11-12
-</div>
-<div class="listing-author">
-Lisa DeBruine
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -247,13 +154,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

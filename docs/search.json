@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/2022-11-13_protocol-dev/index.html",
+    "href": "posts/2022-11-13_protocol-dev/index.html",
+    "title": "Protocol Development Grant",
+    "section": "",
+    "text": "ManyFaces was awarded £39.1K from the BBSRC International Partnerships scheme via the University of Glasgow MVLS to develop distributed image collection protocols for more diverse face image sets.\nThe proposal was written and will be led by Vít Třebický from Charles University in Czechia, Thora Bjornsdottir from Royal Holloway in England, and Lisa DeBruine from University of Glasgow in Scotland, and will involve at least 25 international collaborators, including Patrick Forscher from the Busara Center in Kenya.\nThe proposal aims to use this network to develop protocols for creating an ethically sourced, diverse, highly standardised set of face images that includes poses and expressions that are useful for diverse types of face research, including visual psychophysics, neuroimaging, and eyetracking work that can require careful standardisation, and biomedical applications that require morphology and colour to be recorded in carefully standardised ways."
+  },
+  {
+    "objectID": "posts/2022-11-13_protocol-dev/index.html#summary",
+    "href": "posts/2022-11-13_protocol-dev/index.html#summary",
+    "title": "Protocol Development Grant",
+    "section": "Summary",
+    "text": "Summary\nFace images are used for a wide range of research, including visual perception, emotion production and perception, and to study conditions such as autism and prosopagnosia. However, image sets tend to suffer from one or more of (1) a lack of age and ethnic diversity, (2) insufficient diversity of poses or expressions, (3) a lack of standardisation (e.g., different lighting, backgrounds, camera-to-head distance, and other photographic properties) that makes it impossible to combine image sets, (4) restricted ability to share, or (5) unethical procurement.\nThis project has six parts:\n\nProtocol development\nWe will develop the protocols for image collection and ethical consent using the ManyFaces group to crowd-source image types (e.g., poses, standardisation, and expressions) most commonly required for research on face perception. For example, we will prioritise the collection of emotional expressions most commonly used by the group and determine what emotion elicitation procedures are current best practice. Each partner will be responsible for determining the relevant legal and ethical issues around face image collection to ensure that the consent form is appropriate to all locations. Image protocols will consist of detailed instructions for taking each type of image, including short videos that can be used for 3D reconstruction, plus naming protocols and face model data collection. We will submit these protocols to the relevant ethics boards at each institution.\n\n\nPilot image collection\nWe will purchase and send standardised image collection kits (phone camera, light, tripod, colour chart) to the 25 partner labs, who will each complete an internal piloting of the protocols. Each lab will take images of 1-2 lab members and provide feedback on the length and clarity of the process. This can be done while we are waiting for ethical approval.\n\n\nProtocol refinement\nWe will refine the protocols and consent forms based on this feedback. Partners who need the materials to be translated into languages other than English will conduct the translation using a modified version of the Psychological Science Accelerator translation protocol.\n\n\nImage collection\nEach lab will take photos of 10 adult face models, while taking detailed notes about the process. We will also ask the models to complete a brief questionnaire about their experience and understanding of the consent process, which will be collected in such a way that it is not linked to their face images.\n\n\nImage processing\nThese images will be processed for perception studies using webmorphR, software for creating reproducible face stimuli. Faces will be processed to the same orientation and position on images of the same size, standardising colour and luminance using the colour charts, and ensuring a consistent naming structure.\n\n\nPerception tests\nThe processed images will be used in visual perception tests to generate norms for the image set, such as the strength of emotional expressions and social perceptions. Based on similar online tests, people can comfortably rate about 10 faces per minute, so we will ask each participant to rate all 250 faces of one image type (e.g., pose and standardisation). The attribute being rated and image type will be counterbalanced among the 2500 participants. Studies will be run on Experimentum and participant recruitment and payment will be managed through Prolific."
+  },
+  {
+    "objectID": "posts/2022-11-13_protocol-dev/index.html#outputs",
+    "href": "posts/2022-11-13_protocol-dev/index.html#outputs",
+    "title": "Protocol Development Grant",
+    "section": "Outputs",
+    "text": "Outputs\nAll outputs will be shared publicly on the Open Science Framework or in a managed-access database. This project will serve as proof-of-concept for a large grant application to build on and further develop this database.\n\nWritten and video protocols\nStandardised participant information and consent forms\nDatabase of 250 face images and videos with multiple poses/expressions\nFace model demographics\nNorms from perception tests\nManuscript detailing this project"
+  },
+  {
+    "objectID": "posts/2022-11-12_welcome/index.html",
+    "href": "posts/2022-11-12_welcome/index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Bear with us while we get set up. In the meantime, you can check out the brainstorming document."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ManyFaces",
+    "section": "",
+    "text": "ManyFaces is a developing international network of face researchers. The network was formed in early 2022, when 104 researchers contributed to a brainstorming session. There are currently about 200 members registered, from countries including India, Malaysia, Israel, Australia, Turkey, Brazil, Chile, Japan, Canada, USA, and many European countries.\nWe will set up a mechanism to formally join ManyFaces soon, but for now you can register interest in joining on a Google form."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "ManyFaces",
+    "section": "Recent Posts",
+    "text": "Recent Posts"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ManyFaces",
+    "section": "",
+    "text": "We will set up a mechanism to formally join ManyFaces soon, but for now you can register interest in joining on a Google form."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2022-11-13\n\n\nProtocol Development Grant\n\n\nLisa DeBruine\n\n\n\n\n2022-11-12\n\n\nWelcome!\n\n\nLisa DeBruine\n\n\n\n\n\n\nNo matching items"
+  }
+]

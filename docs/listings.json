@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2022-11-13_protocol-dev/index.html",
+      "/posts/2022-11-12_welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2022-11-13_protocol-dev/index.html",
+      "/posts/2022-11-12_welcome/index.html"
+    ]
+  }
+]

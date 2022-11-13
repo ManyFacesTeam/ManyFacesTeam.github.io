@@ -1,53 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://manyfacesteam.github.io/posts/2022-11-13_protocol-dev/index.html</loc>
+    <lastmod>2022-11-13T16:23:05.144Z</lastmod>
+  </url>
   <url>
-    <loc>/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://manyfacesteam.github.io/posts/2022-11-12_welcome/index.html</loc>
+    <lastmod>2022-11-13T16:23:05.808Z</lastmod>
+  </url>
   <url>
-    <loc>/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://manyfacesteam.github.io/index.html</loc>
+    <lastmod>2022-11-13T16:23:06.863Z</lastmod>
+  </url>
   <url>
-    <loc>/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://manyfacesteam.github.io/about.html</loc>
+    <lastmod>2022-11-13T16:23:07.442Z</lastmod>
+  </url>
   <url>
-    <loc>/post/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/post/20-12-01-wowchemy-prize/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication-type/3/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/author/nelson-bighetti/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication_types/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tags/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/author/robert-ford/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/contact/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/people/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/categories/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tour/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://manyfacesteam.github.io/posts.html</loc>
+    <lastmod>2022-11-13T16:23:07.888Z</lastmod>
+  </url>
+</urlset>
