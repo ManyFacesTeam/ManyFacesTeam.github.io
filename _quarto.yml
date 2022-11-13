@@ -4,16 +4,16 @@ project:
 
 website:
   title: "ManyFaces"
-  site-url: https://manyfacesteam.github.io
+  site-url: https://www.manyfaces.team
   repo-url: https://github.com/ManyFacesTeam/manyfacesteam.github.io
-  image: images/logo.png
-  favicon: images/favicon.ico
+  image: /images/logo.png
+  favicon: /images/favicon.ico
   open-graph: true
   twitter-card:
     site: "@ManyFacesTeam"
   description: "A developing international network of face researchers"
   navbar:
-    logo: images/logo.png
+    logo: /images/logo.png
     logo-alt: "Three 3D faces in a hexagon with rainbow borders"
     left:
       - posts.qmd

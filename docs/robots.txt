@@ -1,1 +1,1 @@
-Sitemap: https://manyfacesteam.github.io/sitemap.xml
+Sitemap: https://www.manyfaces.team/sitemap.xml
