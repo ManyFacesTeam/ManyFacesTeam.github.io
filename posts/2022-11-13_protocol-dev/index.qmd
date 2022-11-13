@@ -1,0 +1,54 @@
+---
+title: "Protocol Development Grant"
+author: "Lisa DeBruine"
+date: "2022-11-13"
+categories: [news, grants]
+---
+
+ManyFaces was awarded £39.1K from the [BBSRC International Partnerships](https://www.ukri.org/councils/bbsrc/remit-programmes-and-priorities/our-international-partnerships-and-programmes/) scheme via the [University of Glasgow MVLS](https://www.gla.ac.uk/colleges/mvls/) to develop distributed image collection protocols for more diverse face image sets. 
+
+The proposal was written and will be led by [Vít Třebický](http://etologiecloveka.cz/index.php/en/people/vit-trebicky/) from Charles University in Czechia, [Thora Bjornsdottir](https://rthorabjornsdottir.wordpress.com/) from Royal Holloway in England, and [Lisa DeBruine](https://debruine.github.io) from University of Glasgow in Scotland, and will involve at least 25 international collaborators, including [Patrick Forscher](https://www.linkedin.com/in/patrick-forscher-91163854) from the [Busara Center](https://busaracenter.org/) in Kenya. 
+
+The proposal aims to use this network to develop protocols for creating an ethically sourced, diverse, highly standardised set of face images that includes poses and expressions that are useful for diverse types of face research, including visual psychophysics, neuroimaging, and eyetracking work that can require careful standardisation, and biomedical applications that require morphology and colour to be recorded in carefully standardised ways.
+
+## Summary
+
+Face images are used for a wide range of research, including visual perception, emotion production and perception, and to study conditions such as autism and prosopagnosia. However, image sets tend to suffer from one or more of (1) a lack of age and ethnic diversity, (2) insufficient diversity of poses or expressions, (3) a lack of standardisation (e.g., different lighting, backgrounds, camera-to-head distance, and other photographic properties) that makes it impossible to combine image sets, (4) restricted ability to share, or (5) unethical procurement. 
+
+This project has six parts:
+
+### Protocol development
+
+We will develop the protocols for image collection and ethical consent using the ManyFaces group to crowd-source image types (e.g., poses, standardisation, and expressions) most commonly required for research on face perception. For example, we will prioritise the collection of emotional expressions most commonly used by the group and determine what emotion elicitation procedures are current best practice. Each partner will be responsible for determining the relevant legal and ethical issues around face image collection to ensure that the consent form is appropriate to all locations. Image protocols will consist of detailed instructions for taking each type of image, including short videos that can be used for [3D reconstruction](https://gafniguy.github.io/4D-Facial-Avatars/), plus naming protocols and face model data collection. We will submit these protocols to the relevant ethics boards at each institution. 
+
+### Pilot image collection
+
+We will purchase and send standardised image collection kits (phone camera, light, tripod, colour chart) to the 25 partner labs, who will each complete an internal piloting of the protocols. Each lab will take images of 1-2 lab members and provide feedback on the length and clarity of the process. This can be done while we are waiting for ethical approval. 
+
+### Protocol refinement
+
+We will refine the protocols and consent forms based on this feedback. Partners who need the materials to be translated into languages other than English will conduct the translation using a modified version of the Psychological Science Accelerator translation protocol.
+
+### Image collection
+
+Each lab will take photos of 10 adult face models, while taking detailed notes about the process. We will also ask the models to complete a brief questionnaire about their experience and understanding of the consent process, which will be collected in such a way that it is not linked to their face images. 
+
+### Image processing
+
+These images will be processed for perception studies using [webmorphR](https://debruine.github.io/webmorphR/), software for creating reproducible face stimuli. Faces will be processed to the same orientation and position on images of the same size, standardising colour and luminance using the colour charts, and ensuring a consistent naming structure.
+
+### Perception tests
+
+The processed images will be used in visual perception tests to generate norms for the image set, such as the strength of emotional expressions and social perceptions. Based on similar online tests, people can comfortably rate about 10 faces per minute, so we will ask each participant to rate all 250 faces of one image type (e.g., pose and standardisation). The attribute being rated and image type will be counterbalanced among the 2500 participants. Studies will be run on [Experimentum](https://debruine.github.io/experimentum/) and participant recruitment and payment will be managed through [Prolific](https://www.prolific.co/). 
+
+## Outputs
+
+All outputs will be shared publicly on the [Open Science Framework](https://osf.io/) or in a managed-access database. This project will serve as proof-of-concept for a large grant application to build on and further develop this database.
+
+* Written and video protocols
+* Standardised participant information and consent forms 
+* Database of 250 face images and videos with multiple poses/expressions
+* Face model demographics 
+* Norms from perception tests
+* Manuscript detailing this project
+

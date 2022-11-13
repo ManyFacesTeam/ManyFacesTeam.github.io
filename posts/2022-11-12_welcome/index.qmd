@@ -1,0 +1,13 @@
+---
+title: "Welcome!"
+author: "Lisa DeBruine"
+date: "2022-11-12"
+categories: [news]
+---
+
+Welcome to our new [quarto](https://quarto.org/docs/reference/projects/websites.html) website!
+
+Bear with us while we get set up. In the meantime, you can check out the [brainstorming document](https://docs.google.com/document/d/1X6b3am7zwDYXT2-TUR-a85-xG-cdrE8_vz9GICbwAl0/edit).
+
+![](rainbow-faces.jpg){fig-alt="Six 3D faces in rainbow colours"}
+

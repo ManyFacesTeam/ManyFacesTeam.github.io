@@ -1,0 +1,17 @@
+---
+image: images/logo.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ManyFacesTeam
+    - icon: github
+      text: Github
+      href: https://github.com/ManyFacesTeam
+
+---
+
+ManyFaces is a developing international network of face researchers. The network was formed in early 2022, when 104 researchers contributed to a brainstorming session. There are currently about 200 members registered, from countries including India, Malaysia, Israel, Australia, Turkey, Brazil, Chile, Japan, Canada, USA, and many European countries.
+
+We will set up a mechanism to formally join ManyFaces soon, but for now you can [register interest in joining](https://forms.gle/5CiiDT14RjHXTt886) on a Google form. 
